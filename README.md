@@ -32,7 +32,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 * **Descripción**: Agrega listas, imágenes y enlaces para que tu página sea interactiva.
 * **Enlace**: [Ver la lección](https://youtu.be/hNB5-NSG4wo)
-* **Consejos**: Usa `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`.
+* **Consejos**:  Usa las etiquetas `<ul>`, `<img>`, `<a>`.
 * **Práctica**: [Clic para programar] (https://jsfiddle.net/rodrigod/8e9r421m)
 
 ### Lección 4: Introducción a CSS
