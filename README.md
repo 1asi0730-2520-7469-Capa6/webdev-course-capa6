@@ -11,7 +11,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 * **Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación
 * **Prerrequisitos**: Ninguno
 * **Herramientas necesarias**: ¡Solo tu navegador web! (Chrome, Firefox, Safari, Edge)
-* **Repositorio de código fuente**: `[ENLACE QUE PONDRÁ GONZALO]`
+* **Repositorio de código fuente**: https://github.com/1asi0730-2520-7469-Capa6/webdev-course-capa6.git
 
 ---
 
