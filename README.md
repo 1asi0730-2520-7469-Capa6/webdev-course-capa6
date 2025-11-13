@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_UPC.png/600px-Logo_UPC.png" alt="Logo UPC" width="300">
+<img src="./imagenes/Logo-UPC.png" alt="Logo UPC" width="200">
 </div>
 
 # Fundamentos de Desarrollo Web
@@ -60,7 +60,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 ## Elaboración
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_UPC.png/600px-Logo_UPC.png" alt="Logo UPC" width="200">
+  <img src="./imagenes/Logo-UPC.png" alt="Logo UPC" width="200">
 </div>
 
 **Universidad Peruana de Ciencias Aplicadas**
@@ -68,16 +68,16 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 * **Periodo**: 202520
 * **Curso**: 1ASI0730 Aplicaciones Web
-* **NRC**: `[ESCRIBE EL NRC DE TU SECCIÓN]`
-* **Nombre del equipo**: `[ESCRIBE EL NOMBRE DE SU EQUIPO]`
+* **NRC**: `7469`
+* **Nombre del equipo**: `Capa6`
 
 ### Integrantes
 
 | Rol | Nombre Completo | Código |
 | :--- | :--- | :--- |
-| **Líder de Equipo (Persona 1)** | **Joan Fernando Teves Samaniego** | **U202117303** |
-| Integrante (Persona 2) | Gonzalo Alonso Carhuancote Dominguez | U202210720 |
-| Integrante (Persona 3) | Antonio Rodrigo Duran Díaz | U202215721 |
-| Integrante (Persona 4) | Angelo Stephano Moscoso Bejar | U20211G499 |
+| **Líder de Equipo** | **Angelo Stephano Moscoso Bejar** | **U20211G499** |
+| Integrante | Gonzalo Alonso Carhuancote Dominguez | U202210720 |
+| Integrante | Antonio Rodrigo Duran Díaz | U202215721 |
+| Integrante | Joan Fernando Teves Samaniego | U20217303 |
 
-**Fecha de entrega**: `[ESCRIBE LA FECHA DE ENTREGA DE SEMANA 12]`
+**Fecha de entrega**: 13/11/2025
