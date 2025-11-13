@@ -28,15 +28,19 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 >
 > *(Sección que rellenará Gonzalo con la descripción, enlace a su video de YouTube y enlace a la práctica)*
 
-### Lección 3: Añadir más elementos HTML (8 minutos)
-> **A cargo de:** Antonio Rodrigo Duran Díaz
->
-> *(Sección que rellenará Antonio con la descripción, enlace a su video de YouTube y enlace a la práctica)*
+### Lección 3: Añadir más elementos HTML
 
-### Lección 4: Introducción a CSS (12 minutos)
-> **A cargo de:** Antonio Rodrigo Duran Díaz
->
-> *(Sección que rellenará Antonio con la descripción, enlace a su video de YouTube y enlace a la práctica)*
+* **Descripción**: Agrega listas, imágenes y enlaces para que tu página sea interactiva.
+* **Enlace**: [Ver la lección](https://youtu.be/hNB5-NSG4wo)
+* **Consejos**: Usa `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`.
+* **Práctica**: [Clic para programar] (https://jsfiddle.net/rodrigod/8e9r421m)
+
+### Lección 4: Introducción a CSS
+
+* **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
+* **Enlace**: [Ver la lección](https://youtu.be/WprqTS0I2xQ)
+* **Consejos**:  Vincular CSS, usar selectores como `body { background-color: blue; }`. 
+* **Práctica**: [Aplicar estilo con un clic] (https://codepen.io/rodrigd/pen/qEZONwd)
 
 ### Lección 5: Crear una página web sencilla (15 minutos)
 > **A cargo de:** Angelo Stephano Moscoso Bejar
