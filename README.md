@@ -17,15 +17,16 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ## Secuencia de la lección
 
-### Lección 1: ¿Qué es el desarrollo web? (5 minutos)
+### Lección 1: ¿Qué es el desarrollo web?
 * **Descripción:** Aprende de qué están hechos los sitios web y por qué HTML y CSS son los componentes básicos.
 * **Enlace**: <a href="https://youtu.be/IITST2qkYfw" target="_blank" rel="noopener noreferrer">Ver la lección</a>
 * **Consejos clave:** Sitios web = Contenido (HTML) + Estilo (CSS).
 
-### Lección 2: Introducción a HTML (10 minutos)
-> **A cargo de:** Gonzalo Alonso Carhuancote Dominguez
->
-> *(Sección que rellenará Gonzalo con la descripción, enlace a su video de YouTube y enlace a la práctica)*
+### Lección 2: Introducción a HTML
+* **Descripción:** Explora las etiquetas HTML básicas y crea tu primera página.
+* **Enlace**: <a href="https://youtu.be/3blF2AdFq2c" target="_blank" rel="noopener noreferrer">Ver la lección</a>
+* **Consejos clave:** Usa `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`.
+* * **Práctica**: [Clic para programar] (https://jsfiddle.net/GGonzaLone/50kr7nco/))
 
 ### Lección 3: Añadir más elementos HTML
 
