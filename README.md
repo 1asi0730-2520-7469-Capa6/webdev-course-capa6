@@ -41,16 +41,16 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 * **Consejos**:  Vincular CSS, usar selectores como `body { background-color: blue; }`. 
 * **Práctica**: [Aplicar estilo con un clic](https://codepen.io/rodrigd/pen/qEZONwd)
 
-### Lección 5: Crear una página web sencilla (15 minutos)
-> **A cargo de:** Angelo Stephano Moscoso Bejar
->
-> *(Sección que rellenará Angelo con la descripción, enlace a su video de YouTube y enlace a la práctica)*
+### Lección 5: Crear una página web sencilla 
+* **Descripción**: Una nueva pagina Web, un nuevo inicio
+* **Enlace**: [Ver la lección](https://youtu.be/9as4622-qeo)
+* **Consejos**: Si hay errores, no hay problema pueden mejorar a partir de ello
+
 
 ### Lección 6: Consejos y Próximos Pasos (10 minutos)
-> **A cargo de:** Angelo Stephano Moscoso Bejar
->
-> *(Sección que rellenará Angelo con la descripción, enlace a su video de YouTube y consejos clave)*
-
+* **Descripción**: Una ayudita con lo que sigue para tener en cuenta
+* **Enlace**: [Ver la lección](https://youtu.be/nd5MUHmZDcs)
+* **Consejos**: No te compliques tanto y disfruta el proceso.
 ---
 
 ## Recursos Adicionales
