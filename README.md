@@ -26,7 +26,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 * **Descripción:** Explora las etiquetas HTML básicas y crea tu primera página.
 * **Enlace**: <a href="https://youtu.be/3blF2AdFq2c" target="_blank" rel="noopener noreferrer">Ver la lección</a>
 * **Consejos clave:** Usa `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`.
-* * **Práctica**: [Clic para programar] (https://jsfiddle.net/GGonzaLone/50kr7nco/))
+* **Práctica**: [Clic para programar](https://jsfiddle.net/GGonzaLone/50kr7nco/))
 
 ### Lección 3: Añadir más elementos HTML
 
@@ -54,10 +54,16 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 * **Consejos**: No te compliques tanto y disfruta el proceso.
 ---
 
-## Recursos Adicionales
-> **A cargo de:** Gonzalo Alonso Carhuancote Dominguez
->
-> *(Esta sección será rellenada por Gonzalo con la tabla de "Todas las Actividades Prácticas" y sus respectivos enlaces a CodePen, JSFiddle o Replit)*
+- **Código Fuente Completo**: [Repositorio de GitHub]((https://github.com/1asi0730-2520-7469-Capa6/webdev-course-capa6))
+- **Todas las Actividades Prácticas**: 
+| Lección # | Actividad | Empezar a Programar | 
+|----------|----------|-------------| 
+| 1 | Explorar Sitios Web |
+| 2 | Primera página HTML | [JSFiddle](https://jsfiddle.net/GGonzaLone/50kr7nco/)) | 
+| 3 | Añadir imágenes | [JSFiddle]((https://jsfiddle.net/rodrigod/8e9r421m)) | 
+| 4 | Estilo de la página | [CodePen]((https://codepen.io/rodrigd/pen/qEZONwd)) | 
+| 5 | Página de perfil | [Replit](https://replit.com/@your-lesson5) |- Compartir: #WebDevBeginners 
+**¡Gracias por completar el curso!** 
 
 ---
 
